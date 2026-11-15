@@ -1,0 +1,17 @@
+{
+ "name": "Orreyline",
+ "symbol": "ORRY",
+ "description": "Brass planets on fixed rails. Nothing leaves orbit.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/orreyline/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/orreyline/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
