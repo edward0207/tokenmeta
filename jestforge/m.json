@@ -1,0 +1,23 @@
+{
+ "name": "Jestforge",
+ "symbol": "JEST",
+ "description": "Jokes, hammered into coins.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/jestforge/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://jestforge.vercel.app",
+ "twitter": "https://x.com/jestforgecoin",
+ "extensions": {
+  "website": "https://jestforge.vercel.app",
+  "twitter": "https://x.com/jestforgecoin"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/jestforge/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
