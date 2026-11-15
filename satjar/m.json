@@ -1,0 +1,23 @@
+{
+ "name": "Satjar",
+ "symbol": "SATJAR",
+ "description": "One jar, one lid, everything that fits inside.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/satjar/logo512.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://satjar.fun",
+ "twitter": "https://x.com/satjaronink",
+ "extensions": {
+  "website": "https://satjar.fun",
+  "twitter": "https://x.com/satjaronink"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/satjar/logo512.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
