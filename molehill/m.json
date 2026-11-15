@@ -1,0 +1,17 @@
+{
+ "name": "MolehillHood",
+ "symbol": "MOLE",
+ "description": "Made a mountain out of it.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/molehill/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/molehill/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
