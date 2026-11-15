@@ -1,0 +1,23 @@
+{
+ "name": "DekeTheHood",
+ "symbol": "DEKE",
+ "description": "The decoy that brings the flock.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/deke/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://deke-dbc-static.vercel.app",
+ "twitter": "https://x.com/dekethehood",
+ "extensions": {
+  "website": "https://deke-dbc-static.vercel.app",
+  "twitter": "https://x.com/dekethehood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/deke/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
