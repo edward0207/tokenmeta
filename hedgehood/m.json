@@ -1,0 +1,23 @@
+{
+ "name": "hedgehood",
+ "symbol": "HEDGE",
+ "description": "hedgehood is a meme coin: a hedgehog under a green hood, takes exactly what it needs and curls up on the rest.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hedgehood/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://hedgehood-static.vercel.app",
+ "twitter": "https://x.com/hedgehoodxyz",
+ "extensions": {
+  "website": "https://hedgehood-static.vercel.app",
+  "twitter": "https://x.com/hedgehoodxyz"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hedgehood/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
