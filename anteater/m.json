@@ -1,0 +1,23 @@
+{
+ "name": "Anteaterhood",
+ "symbol": "ANTEATER",
+ "description": "One long snout, one mound at a time, nothing left on the table.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/anteater/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://anteater-static.vercel.app",
+ "twitter": "https://x.com/anteaterhood",
+ "extensions": {
+  "website": "https://anteater-static.vercel.app",
+  "twitter": "https://x.com/anteaterhood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/anteater/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
