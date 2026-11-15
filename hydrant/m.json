@@ -1,0 +1,23 @@
+{
+ "name": "HydrantHood",
+ "symbol": "HYDRANT",
+ "description": "The hood keeps its own water supply. Open it and everybody drinks.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hydrant/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://hydrant-static.vercel.app",
+ "twitter": "https://x.com/hydranthood",
+ "extensions": {
+  "website": "https://hydrant-static.vercel.app",
+  "twitter": "https://x.com/hydranthood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hydrant/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
