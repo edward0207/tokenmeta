@@ -1,0 +1,23 @@
+{
+ "name": "Bobbin",
+ "symbol": "BOBBIN",
+ "description": "One bobbin, one thread.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/bobbin/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://bobbin-static.vercel.app",
+ "twitter": "https://x.com/bobbinthehood",
+ "extensions": {
+  "website": "https://bobbin-static.vercel.app",
+  "twitter": "https://x.com/bobbinthehood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/bobbin/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
