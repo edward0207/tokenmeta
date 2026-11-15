@@ -1,0 +1,23 @@
+{
+ "name": "AsteriskHood",
+ "symbol": "ASTERISK",
+ "description": "Read the footnote before you believe the headline.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/asterisk/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://asterisk-static.vercel.app",
+ "twitter": "https://x.com/asteriskhood",
+ "extensions": {
+  "website": "https://asterisk-static.vercel.app",
+  "twitter": "https://x.com/asteriskhood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/asterisk/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
