@@ -1,0 +1,17 @@
+{
+ "name": "Vendfall",
+ "symbol": "VEND",
+ "description": "Put the coin in. Something always drops.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/vendfall/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/vendfall/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
