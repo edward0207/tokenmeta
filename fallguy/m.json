@@ -1,0 +1,23 @@
+{
+ "name": "Fallguyhood",
+ "symbol": "FALLGUY",
+ "description": "Takes the fall so you do not have to.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/fallguy/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://fallguy-mh-static.vercel.app",
+ "twitter": "https://x.com/fallguyhood",
+ "extensions": {
+  "website": "https://fallguy-mh-static.vercel.app",
+  "twitter": "https://x.com/fallguyhood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/fallguy/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
