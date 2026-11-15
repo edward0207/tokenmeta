@@ -1,0 +1,23 @@
+{
+ "name": "Ledgerzine",
+ "symbol": "ZINE",
+ "description": "A zine printed on the chain.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/ledgerzine/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://ledgerzine.vercel.app",
+ "twitter": "https://x.com/theledgerzine",
+ "extensions": {
+  "website": "https://ledgerzine.vercel.app",
+  "twitter": "https://x.com/theledgerzine"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/ledgerzine/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
