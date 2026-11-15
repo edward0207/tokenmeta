@@ -2,7 +2,7 @@
  "name": "Locksley",
  "symbol": "LOCKSLEY",
  "description": "Takes from the pool, gives it back to the holders.",
- "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/locksley/logo.png",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/locksley/logo512.png",
  "showName": true,
  "createdOn": "https://pump.fun",
  "website": "https://locksley.vercel.app",
@@ -14,7 +14,7 @@
  "properties": {
   "files": [
    {
-    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/locksley/logo.png",
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/locksley/logo512.png",
     "type": "image/png"
    }
   ],
