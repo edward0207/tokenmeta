@@ -1,0 +1,23 @@
+{
+ "name": "SnoozeTheHood",
+ "symbol": "SNOOZE",
+ "description": "Nine more minutes, then we send it.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/snooze/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://snooze-static.vercel.app",
+ "twitter": "https://x.com/snoozethehood",
+ "extensions": {
+  "website": "https://snooze-static.vercel.app",
+  "twitter": "https://x.com/snoozethehood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/snooze/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
