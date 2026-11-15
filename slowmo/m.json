@@ -1,0 +1,23 @@
+{
+ "name": "SlowmoHood",
+ "symbol": "SLOWMO",
+ "description": "Everything looks better at quarter speed.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/slowmo/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://www.slowmohood.xyz",
+ "twitter": "https://x.com/slowmohood",
+ "extensions": {
+  "website": "https://www.slowmohood.xyz",
+  "twitter": "https://x.com/slowmohood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/slowmo/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
