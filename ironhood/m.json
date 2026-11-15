@@ -1,0 +1,17 @@
+{
+ "name": "IronHood",
+ "symbol": "IRON",
+ "description": "Heavy hands, heavier bags.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/ironhood/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/ironhood/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
