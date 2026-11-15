@@ -1,0 +1,23 @@
+{
+ "name": "Shifty",
+ "symbol": "SHIFTY",
+ "description": "Never in the same place twice.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/shifty/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://shifty-static.vercel.app",
+ "twitter": "https://x.com/shiftythehood",
+ "extensions": {
+  "website": "https://shifty-static.vercel.app",
+  "twitter": "https://x.com/shiftythehood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/shifty/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
