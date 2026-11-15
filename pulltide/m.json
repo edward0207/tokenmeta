@@ -1,0 +1,23 @@
+{
+ "name": "Pulltide",
+ "symbol": "PTIDE",
+ "description": "Pulltide is the card shop at the edge of the tide. Every pack is a pull, every pull is a story, and the rare ones wash up when you least expect them.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/pulltide/logo.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://openlate.fun",
+ "twitter": "https://x.com/pullTide",
+ "extensions": {
+  "website": "https://openlate.fun",
+  "twitter": "https://x.com/pullTide"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/pulltide/logo.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
