@@ -1,0 +1,22 @@
+{
+ "name": "Puffinox",
+ "symbol": "PUFFNX",
+ "description": "A puffin that dives before it looks. Every listing is a dive.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/puffinox/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://puffinox.vercel.app",
+ "extensions": {
+  "website": "https://puffinox.vercel.app",
+  "twitter": ""
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/puffinox/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
