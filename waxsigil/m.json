@@ -1,0 +1,23 @@
+{
+ "name": "Waxsigil",
+ "symbol": "WAXSIGIL",
+ "description": "Pressed once into hot wax. Break the seal and you know.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/waxsigil/logo.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://edward0207.github.io/tokenmeta/waxsigil/",
+ "twitter": "https://x.com/waxsigil",
+ "extensions": {
+  "website": "https://edward0207.github.io/tokenmeta/waxsigil/",
+  "twitter": "https://x.com/waxsigil"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/waxsigil/logo.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
