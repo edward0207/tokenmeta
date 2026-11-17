@@ -1,0 +1,22 @@
+{
+ "name": "Forecastle",
+ "symbol": "CASTLE",
+ "description": "Prediction market odds, read across every venue.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/forecastle/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://forecastle-two.vercel.app",
+ "extensions": {
+  "website": "https://forecastle-two.vercel.app",
+  "twitter": ""
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/forecastle/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
