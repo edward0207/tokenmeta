@@ -1,0 +1,22 @@
+{
+ "name": "Kilnmoor",
+ "symbol": "KILN",
+ "description": "A launchpad that fires a launch on a published schedule.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/kilnmoor/logo.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://kilnmoor.vercel.app",
+ "extensions": {
+  "website": "https://kilnmoor.vercel.app",
+  "twitter": ""
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/kilnmoor/logo.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
