@@ -1,0 +1,23 @@
+{
+ "name": "Lanternquay",
+ "symbol": "LANTERN",
+ "description": "A launchpad that keeps a lantern on every berth.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/lanternquay/logo.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://lanternquay.vercel.app",
+ "extensions": {
+  "website": "https://lanternquay.vercel.app",
+  "twitter": "https://x.com/Lanternquay"
+ },
+ "twitter": "https://x.com/Lanternquay",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/lanternquay/logo.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
