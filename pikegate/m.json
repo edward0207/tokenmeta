@@ -1,0 +1,22 @@
+{
+ "name": "Pikegate",
+ "symbol": "PIKEG",
+ "description": "One barrier. Every toll to the keeper. Pikegate lifts for nobody twice.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/pikegate/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://pikegate.vercel.app",
+ "extensions": {
+  "website": "https://pikegate.vercel.app",
+  "twitter": ""
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/pikegate/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
