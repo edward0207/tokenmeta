@@ -1,0 +1,17 @@
+{
+ "name": "nguji subuh",
+ "symbol": "subuh",
+ "description": "",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/uji/ngujisubuh/logo.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/uji/ngujisubuh/logo.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
