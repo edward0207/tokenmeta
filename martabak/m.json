@@ -1,0 +1,16 @@
+{
+ "name": "martabak",
+ "symbol": "martabak",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/martabak/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/martabak/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
