@@ -1,0 +1,17 @@
+{
+ "name": "Uji luar",
+ "symbol": "UJI",
+ "description": "",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/uji/ujiluar/logo.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/uji/ujiluar/logo.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
