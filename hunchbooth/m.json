@@ -1,0 +1,22 @@
+{
+ "name": "Hunchbooth",
+ "symbol": "HUNCH",
+ "description": "A booth for hunches. Pay the coin, read the card.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hunchbooth/logo.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://hunchbooth.vercel.app",
+ "extensions": {
+  "website": "https://hunchbooth.vercel.app",
+  "twitter": ""
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hunchbooth/logo.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
