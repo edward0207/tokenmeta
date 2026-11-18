@@ -7,7 +7,8 @@
  "createdOn": "https://pump.fun",
  "website": "https://daemonry.xyz",
  "extensions": {
-  "website": "https://daemonry.xyz"
+  "website": "https://daemonry.xyz",
+  "twitter": "https://x.com/daemonrj"
  },
  "properties": {
   "files": [
@@ -17,5 +18,6 @@
    }
   ],
   "category": "image"
- }
+ },
+ "twitter": "https://x.com/daemonrj"
 }
