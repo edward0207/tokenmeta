@@ -1,0 +1,21 @@
+{
+ "name": "Daemonry",
+ "symbol": "DAEMONRY",
+ "description": "Small daemons, doing the work you forgot to schedule.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/daemonry/logo.png",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://daemonry.xyz",
+ "extensions": {
+  "website": "https://daemonry.xyz"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/daemonry/logo.png",
+    "type": "image/png"
+   }
+  ],
+  "category": "image"
+ }
+}
