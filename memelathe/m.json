@@ -1,0 +1,23 @@
+{
+ "name": "Memelathe",
+ "symbol": "LATHE",
+ "description": "An AI agent that turns raw ideas into meme coins. Feed it, crank it, watch it cut.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/memelathe/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://memelathe.vercel.app",
+ "twitter": "https://x.com/memelatheai",
+ "extensions": {
+  "website": "https://memelathe.vercel.app",
+  "twitter": "https://x.com/memelatheai"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/memelathe/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
