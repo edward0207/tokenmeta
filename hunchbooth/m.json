@@ -2,21 +2,22 @@
  "name": "Hunchbooth",
  "symbol": "HUNCH",
  "description": "A booth for hunches. Pay the coin, read the card.",
- "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hunchbooth/logo.png",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hunchbooth/logo.jpg",
  "showName": true,
  "createdOn": "https://pump.fun",
  "website": "https://hunchbooth.vercel.app",
  "extensions": {
   "website": "https://hunchbooth.vercel.app",
-  "twitter": ""
+  "twitter": "https://x.com/hunchbooth"
  },
  "properties": {
   "files": [
    {
-    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hunchbooth/logo.png",
-    "type": "image/png"
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/hunchbooth/logo.jpg",
+    "type": "image/jpeg"
    }
   ],
   "category": "image"
- }
+ },
+ "twitter": "https://x.com/hunchbooth"
 }
