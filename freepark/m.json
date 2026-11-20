@@ -1,0 +1,23 @@
+{
+ "name": "FreeParkHood",
+ "symbol": "FREEPARK",
+ "description": "Park anywhere, pay nothing.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/freepark/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://freepark-static.vercel.app",
+ "twitter": "https://x.com/freeparkhood",
+ "extensions": {
+  "website": "https://freepark-static.vercel.app",
+  "twitter": "https://x.com/freeparkhood"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/freepark/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
