@@ -1,0 +1,23 @@
+{
+ "name": "Bloodhound",
+ "symbol": "HOUND",
+ "description": "Nose down, trail warm. It finds what walked away.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/bloodhound/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://edward0207.github.io/tokenmeta/bloodhound/",
+ "twitter": "https://x.com/bloodhound",
+ "extensions": {
+  "website": "https://edward0207.github.io/tokenmeta/bloodhound/",
+  "twitter": "https://x.com/bloodhound"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/bloodhound/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
