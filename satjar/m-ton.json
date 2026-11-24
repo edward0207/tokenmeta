@@ -1,0 +1,12 @@
+{
+ "name": "Satjar",
+ "symbol": "SATJAR",
+ "description": "One jar, one lid, everything that fits inside.",
+ "decimals": "9",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/satjar/logo512.png",
+ "external_url": "https://satjar.fun",
+ "social": [
+  "https://x.com/satjaronink",
+  "https://satjar.fun"
+ ]
+}
