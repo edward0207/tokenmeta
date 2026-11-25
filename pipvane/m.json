@@ -1,0 +1,23 @@
+{
+ "name": "Pipvane",
+ "symbol": "PIPVANE",
+ "description": "A weathervane for the tape. It swings before the wind does.",
+ "image": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/pipvane/logo.jpg",
+ "showName": true,
+ "createdOn": "https://pump.fun",
+ "website": "https://pipvane.vercel.app",
+ "twitter": "https://x.com/pipvane",
+ "extensions": {
+  "website": "https://pipvane.vercel.app",
+  "twitter": "https://x.com/pipvane"
+ },
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/edward0207/tokenmeta/main/pipvane/logo.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
